@@ -16,6 +16,11 @@
 ### 3. SQL
 + чуть чуть знаю этот язык програмирования
 
+## Немного статискики   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KekCheburekLegend&theme=tokyonight&border_radius=10&locale=ru&short_numbers=true)](https://git.io/streak-stats)
+
+
 ## Расписание
   |        |      ПН       |       ВТ      |     СР       |       ЧТ     |      ПТ      |
   |------- | ------------- | ------------- |------------- |------------- |------------- |
@@ -32,5 +37,6 @@
 ![](https://media1.tenor.com/m/pT_eK7L76OEAAAAd/coding-computer-coding.gif)
 ![](https://media.tenor.com/VrzXhtoSwcsAAAAM/hacker-typing.gif)
 
-
 [одна полезная ссылка](https://quickref.me/markdown)
+
+Print("Hello world")
