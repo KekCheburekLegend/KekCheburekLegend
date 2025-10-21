@@ -18,7 +18,7 @@
 
 ## Немного статискики   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KekCheburekLegend&theme=tokyonight&border_radius=10&locale=ru&short_numbers=true)](https://git.io/streak-stats)
+
 
 
 ## Расписание
