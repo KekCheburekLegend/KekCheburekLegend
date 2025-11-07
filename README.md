@@ -39,4 +39,4 @@
 
 [одна полезная ссылка](https://quickref.me/markdown)
 
-Print("Hello world")
+
