@@ -14,7 +14,7 @@
 ### 2.  Html + css
 + интересно на веб - разработке
 ### 3. SQL
-+ чуть чуть знаю этот языке
++ чуть чуть знаю этот язык
 
 ## Немного статискики   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
 
